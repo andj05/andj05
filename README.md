@@ -2,8 +2,11 @@
 <h1 align="center">Hola, soy <a href="https://github.com/andj05">Anddy Jara</a> 👋</h1>
 </div>
 
-<!-- Aquí pondrás tu banner personalizado -->
-<img src="https://via.placeholder.com/1000x300/0D1117/58A6FF?text=Tu+Banner+Personalizado+Aquí">
+<!-- Reemplaza esta URL con tu banner personalizado -->
+<!-- Opción 1: Si subes a una carpeta assets: -->
+<!-- <img src="./assets/banner.png" alt="Anddy Jara - Backend Developer"> -->
+<!-- Opción 2: Si usas un servicio externo como Imgur: -->
+<img src="https://via.placeholder.com/1000x300/1a1b27/00ff88?text=ANDDY+JARA+%7C+Backend+Developer+%7C+C%23+%7C+Kotlin+%7C+PostgreSQL" alt="Anddy Jara Banner">
 
 [![GitHub followers](https://img.shields.io/github/followers/andj05?style=social)](https://github.com/andj05)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-@Panddy24-red?style=social&logo=youtube)](http://www.youtube.com/@Panddy24)
@@ -134,6 +137,13 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andj05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andj05&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+### 📊 Actividad de Contribuciones
+<p align="center">
+  <img src="https://img.shields.io/badge/Contribuciones_2024-150-brightgreen?style=for-the-badge" alt="150 contributions"/>
+  <img src="https://img.shields.io/badge/Repositorios_Públicos-3-blue?style=for-the-badge" alt="Repositorios"/>
+  <img src="https://img.shields.io/badge/Proyectos_Activos-4-orange?style=for-the-badge" alt="Proyectos"/>
 </p>
 
 ### 🔥 GitHub Streak
