@@ -1,13 +1,15 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/andj05">Anddy Jara</a> 👋</h1>
-</div>
 
-<!-- Reemplaza esta URL con tu banner personalizado -->
- <img src="./assets/banner.png" alt="Anddy Jara - Backend Developer">
+<!-- Banner centrado -->
+<p align="center">
+<img src="./assets/banner.png" alt="Anddy Jara - Backend Developer" width="100%">
+</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/andj05?style=social)](https://github.com/andj05)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-@Panddy24-red?style=social&logo=youtube)](http://www.youtube.com/@Panddy24)
 ![Profile Views](https://komarev.com/ghpvc/?username=andj05&color=brightgreen)
+</div>
 
 ## Sobre mí
 
