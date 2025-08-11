@@ -1,15 +1,16 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/andj05">Anddy Jara</a> 👋</h1>
+</div>
 
-<!-- Banner centrado -->
-<p align="center">
-<img src="./assets/banner.png" alt="Anddy Jara - Backend Developer" width="100%">
-</p>
+<!-- Reemplaza esta URL con tu banner personalizado -->
+<!-- Opción 1: Si subes a una carpeta assets: -->
+<!-- <img src="./assets/banner.png" alt="Anddy Jara - Backend Developer"> -->
+<!-- Opción 2: Si usas un servicio externo como Imgur: -->
+<img src="https://via.placeholder.com/1000x300/1a1b27/00ff88?text=ANDDY+JARA+%7C+Backend+Developer+%7C+C%23+%7C+Kotlin+%7C+PostgreSQL" alt="Anddy Jara Banner">
 
 [![GitHub followers](https://img.shields.io/github/followers/andj05?style=social)](https://github.com/andj05)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-@Panddy24-red?style=social&logo=youtube)](http://www.youtube.com/@Panddy24)
 ![Profile Views](https://komarev.com/ghpvc/?username=andj05&color=brightgreen)
-</div>
 
 ## Sobre mí
 
@@ -53,7 +54,7 @@
 <td width="50%">
 <h3 align="center">🏨 Sistema Gestor de Reservas Hoteleras</h3>
 <div align="center">
-<a href="https://github.com/andj05/hotel-reservation-system" target="_blank"><img src="./assets/csharp.png" width="400" alt="Sistema de Reservas Hoteleras"></a>
+<a href="https://github.com/andj05/hotel-reservation-system" target="_blank"><img src="./assets/projects/hotel-system.png" width="400" height="250" alt="Sistema de Reservas Hoteleras"></a>
 <p>
 <a href="https://github.com/andj05/hotel-reservation-system" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -66,7 +67,7 @@
 <td width="50%">
 <h3 align="center">🚚 App de Delivery - ASHPROGRAM</h3>
 <div align="center">                                       
-<a href="https://github.com/andj05/delivery-app-backend" target="_blank"><img src="./assets/delivery.jpg" width="400" alt="App Delivery Backend"></a>
+<a href="https://github.com/andj05/delivery-app-backend" target="_blank"><img src="./assets/projects/delivery-app.png" width="400" height="250" alt="App Delivery Backend"></a>
 <br>
 <p>
 <a href="https://github.com/andj05/delivery-app-backend" target="_blank">
@@ -85,7 +86,7 @@
 <td width="50%">
 <h3 align="center">📱 App Móvil Android - Kotlin</h3>
 <div align="center">
-<a href="https://github.com/andj05/android-kotlin-app" target="_blank"><img src="./assets/kotlin.png" width="400" alt="App Android Kotlin"></a>
+<a href="https://github.com/andj05/android-kotlin-app" target="_blank"><img src="./assets/projects/android-app.png" width="400" height="250" alt="App Android Kotlin"></a>
 <p>
 <a href="https://github.com/andj05/android-kotlin-app" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-0095d5?style=for-the-badge&logo=github&logoColor=black">
@@ -98,7 +99,7 @@
 <td width="50%">
 <h3 align="center">🛡️ Herramientas de Hacking Ético</h3>
 <div align="center">
-<a href="https://github.com/andj05/ethical-hacking-tools" target="_blank"><img src="./assets/hacking.png" width="400" alt="Herramientas Seguridad"></a>
+<a href="https://github.com/andj05/ethical-hacking-tools" target="_blank"><img src="./assets/projects/security-tools.png" width="400" height="250" alt="Herramientas Seguridad"></a>
 <p>
 <a href="https://github.com/andj05/ethical-hacking-tools" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff6b35?style=for-the-badge&logo=github&logoColor=black">
