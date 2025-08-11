@@ -53,7 +53,7 @@
 <td width="50%">
 <h3 align="center">🏨 Sistema Gestor de Reservas Hoteleras</h3>
 <div align="center">
-<a href="https://github.com/andj05/hotel-reservation-system" target="_blank"><img src="./assets/projects/hotel-system.png" width="400" alt="Sistema de Reservas Hoteleras"></a>
+<a href="https://github.com/andj05/hotel-reservation-system" target="_blank"><img src="./assets/csharp.png" width="400" alt="Sistema de Reservas Hoteleras"></a>
 <p>
 <a href="https://github.com/andj05/hotel-reservation-system" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -66,7 +66,7 @@
 <td width="50%">
 <h3 align="center">🚚 App de Delivery - ASHPROGRAM</h3>
 <div align="center">                                       
-<a href="https://github.com/andj05/delivery-app-backend" target="_blank"><img src="./assets/projects/delivery-app.png" width="400" alt="App Delivery Backend"></a>
+<a href="https://github.com/andj05/delivery-app-backend" target="_blank"><img src="./assets/delivery.jpg" width="400" alt="App Delivery Backend"></a>
 <br>
 <p>
 <a href="https://github.com/andj05/delivery-app-backend" target="_blank">
@@ -85,7 +85,7 @@
 <td width="50%">
 <h3 align="center">📱 App Móvil Android - Kotlin</h3>
 <div align="center">
-<a href="https://github.com/andj05/android-kotlin-app" target="_blank"><img src="./assets/projects/android-app.png" width="400" alt="App Android Kotlin"></a>
+<a href="https://github.com/andj05/android-kotlin-app" target="_blank"><img src="./assets/kotlin.png" width="400" alt="App Android Kotlin"></a>
 <p>
 <a href="https://github.com/andj05/android-kotlin-app" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-0095d5?style=for-the-badge&logo=github&logoColor=black">
@@ -98,7 +98,7 @@
 <td width="50%">
 <h3 align="center">🛡️ Herramientas de Hacking Ético</h3>
 <div align="center">
-<a href="https://github.com/andj05/ethical-hacking-tools" target="_blank"><img src="./assets/projects/security-tools.png" width="400" alt="Herramientas Seguridad"></a>
+<a href="https://github.com/andj05/ethical-hacking-tools" target="_blank"><img src="./assets/hacking.png" width="400" alt="Herramientas Seguridad"></a>
 <p>
 <a href="https://github.com/andj05/ethical-hacking-tools" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff6b35?style=for-the-badge&logo=github&logoColor=black">
