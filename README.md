@@ -4,9 +4,9 @@
 
 <!-- Reemplaza esta URL con tu banner personalizado -->
 <!-- Opción 1: Si subes a una carpeta assets: -->
- <img src="./assets/banner.png" alt="Anddy Jara - Backend Developer"> 
+<!-- <img src="./assets/banner.png" alt="Anddy Jara - Backend Developer"> -->
 <!-- Opción 2: Si usas un servicio externo como Imgur: -->
-<!-- <img src="https://via.placeholder.com/1000x300/1a1b27/00ff88?text=ANDDY+JARA+%7C+Backend+Developer+%7C+C%23+%7C+Kotlin+%7C+PostgreSQL" alt="Anddy Jara Banner"> -->
+<img src="https://via.placeholder.com/1000x300/1a1b27/00ff88?text=ANDDY+JARA+%7C+Backend+Developer+%7C+C%23+%7C+Kotlin+%7C+PostgreSQL" alt="Anddy Jara Banner">
 
 [![GitHub followers](https://img.shields.io/github/followers/andj05?style=social)](https://github.com/andj05)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-@Panddy24-red?style=social&logo=youtube)](http://www.youtube.com/@Panddy24)
@@ -14,7 +14,9 @@
 
 ## Sobre mí
 
-- 💼 **Backend Developer** en **ASHPROGRAM**
+- 💼 **Backend Developer** en **ASHPROGRAM** - Desarrollando app de **Delivery**
+- 🏨 **Especialista en Sistemas de Gestión** - Creador de sistema gestor de **reservas hoteleras**
+- 📱 **Desarrollador Android** - Apps móviles nativas con **Kotlin**
 - 🎓 Estudiante de **Desarrollo de Software**
 - 🛡️ Certificado en **Hacking Ético** por **ITLA**
 - 💻 Desarrollador **Full Stack** con experiencia en múltiples tecnologías
@@ -50,29 +52,29 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Sistema de Gestión Backend</h3>
+<h3 align="center">🏨 Sistema Gestor de Reservas Hoteleras</h3>
 <div align="center">
-<a href="https://github.com/andj05/proyecto-backend" target="_blank"><img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=Backend+Project" width="400" alt="Sistema Backend"></a>
+<a href="https://github.com/andj05/hotel-reservation-system" target="_blank"><img src="./assets/projects/hotel-system.png" width="400" alt="Sistema de Reservas Hoteleras"></a>
 <p>
-<a href="https://github.com/andj05/proyecto-backend" target="_blank">
+<a href="https://github.com/andj05/hotel-reservation-system" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Sistema robusto desarrollado en <strong>C# y .NET</strong> con integración a <strong>PostgreSQL</strong>. Implementa arquitectura limpia y buenas prácticas de desarrollo backend.</p>
+<p>Sistema completo para gestión de <strong>reservas hoteleras</strong> desarrollado en <strong>C# y .NET</strong> con base de datos <strong>PostgreSQL</strong>. Incluye módulos de administración, reservas, facturación y reportes.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">Aplicación Web Full Stack</h3>
+<h3 align="center">🚚 App de Delivery - ASHPROGRAM</h3>
 <div align="center">                                       
-<a href="https://github.com/andj05/web-fullstack" target="_blank"><img src="https://via.placeholder.com/400x200/0D1117/61DAFB?text=Full+Stack+Web" width="400" alt="Web Full Stack"></a>
+<a href="https://github.com/andj05/delivery-app-backend" target="_blank"><img src="./assets/projects/delivery-app.png" width="400" alt="App Delivery Backend"></a>
 <br>
 <p>
-<a href="https://github.com/andj05/web-fullstack" target="_blank">
+<a href="https://github.com/andj05/delivery-app-backend" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aplicación web completa utilizando <strong>HTML, CSS, JavaScript</strong> en el frontend y <strong>C#</strong> en el backend. Base de datos <strong>SQL Server</strong> para persistencia de datos.</p>
+<p><strong>Backend robusto</strong> para aplicación de delivery desarrollado en <strong>C# .NET</strong>. Gestiona pedidos, tracking en tiempo real, sistema de pagos y administración de restaurantes con <strong>SQL Server</strong>.</p>
 </div>
 </td>
 </table>                                                                                 
@@ -82,28 +84,28 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Herramientas de Seguridad</h3>
+<h3 align="center">📱 App Móvil Android - Kotlin</h3>
 <div align="center">
-<a href="https://github.com/andj05/security-tools" target="_blank"><img src="https://via.placeholder.com/400x200/0D1117/FF6B35?text=Security+Tools" width="400" alt="Herramientas Seguridad"></a>
+<a href="https://github.com/andj05/android-kotlin-app" target="_blank"><img src="./assets/projects/android-app.png" width="400" alt="App Android Kotlin"></a>
 <p>
-<a href="https://github.com/andj05/security-tools" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff6b35?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/andj05/android-kotlin-app" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-0095d5?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Scripts y herramientas desarrolladas durante mis estudios de <strong>Hacking Ético</strong>. Enfocado en testing de penetración y análisis de vulnerabilidades de forma ética.</p>
+<p>Aplicación móvil nativa para <strong>Android desarrollada en Kotlin</strong>. Implementa arquitectura MVVM, consumo de APIs REST, Room Database y Material Design siguiendo las mejores prácticas.</p>
 </div>
 </td>       
 
 <td width="50%">
-<h3 align="center">App Mobile con Kotlin</h3>
+<h3 align="center">🛡️ Herramientas de Hacking Ético</h3>
 <div align="center">
-<a href="https://github.com/andj05/kotlin-mobile-app" target="_blank"><img src="https://via.placeholder.com/400x200/0D1117/0095D5?text=Kotlin+Mobile" width="400" alt="App Kotlin"></a>
+<a href="https://github.com/andj05/ethical-hacking-tools" target="_blank"><img src="./assets/projects/security-tools.png" width="400" alt="Herramientas Seguridad"></a>
 <p>
-<a href="https://github.com/andj05/kotlin-mobile-app" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-0095d5?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/andj05/ethical-hacking-tools" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff6b35?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aplicación móvil desarrollada en <strong>Kotlin</strong> siguiendo las mejores prácticas de desarrollo Android. Integra APIs REST y manejo eficiente de bases de datos.</p>
+<p>Scripts y herramientas desarrolladas durante mi certificación en <strong>Hacking Ético en ITLA</strong>. Enfocado en pentesting, análisis de vulnerabilidades y auditorías de seguridad de forma ética.</p>
 </div>
 </td>  
 </table>                                                                                 
@@ -114,10 +116,18 @@
 
 ### 🏢 ASHPROGRAM
 **Desarrollador Backend** | *Actual*
-- Desarrollo de APIs REST en C# y .NET
-- Diseño e implementación de bases de datos en PostgreSQL y SQL Server
-- Optimización de consultas y rendimiento de aplicaciones
-- Colaboración en equipos ágiles para entrega de proyectos
+- 🚚 **Desarrollo de App de Delivery** - Backend completo con C# .NET
+- 🔧 Desarrollo de **APIs REST** robustas y escalables
+- 🗄️ Diseño e implementación de bases de datos en **PostgreSQL y SQL Server**
+- ⚡ **Optimización de consultas** y rendimiento de aplicaciones
+- 🚀 Colaboración en **equipos ágiles** para entrega de proyectos
+- 📱 Integración con **aplicaciones móviles** y sistemas externos
+
+### 🏨 Proyectos Freelance
+**Desarrollador de Sistemas** | *2023-2024*
+- 🏨 Creación de **sistema gestor de reservas hoteleras** completo
+- 📱 Desarrollo de **aplicaciones móviles Android** con Kotlin
+- 💻 Soluciones **full-stack** personalizadas para diversos clientes
 
 <br>
 
