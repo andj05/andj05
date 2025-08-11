@@ -3,10 +3,7 @@
 </div>
 
 <!-- Reemplaza esta URL con tu banner personalizado -->
-<!-- Opción 1: Si subes a una carpeta assets: -->
-<!-- <img src="./assets/banner.png" alt="Anddy Jara - Backend Developer"> -->
-<!-- Opción 2: Si usas un servicio externo como Imgur: -->
-<img src="https://via.placeholder.com/1000x300/1a1b27/00ff88?text=ANDDY+JARA+%7C+Backend+Developer+%7C+C%23+%7C+Kotlin+%7C+PostgreSQL" alt="Anddy Jara Banner">
+ <img src="./assets/banner.png" alt="Anddy Jara - Backend Developer">
 
 [![GitHub followers](https://img.shields.io/github/followers/andj05?style=social)](https://github.com/andj05)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-@Panddy24-red?style=social&logo=youtube)](http://www.youtube.com/@Panddy24)
