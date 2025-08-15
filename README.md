@@ -48,12 +48,15 @@
 | **📱 App Android Nativa** | Kotlin + MVVM | Arquitectura escalable con Material Design |
 | **🛡️ Tools Hacking Ético** | Scripts de Seguridad | Auditorías y pentesting automatizados |
 
-## 📊 GitHub Stats
+## 📊 Mi Actividad
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=andj05&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andj05&layout=compact&theme=github_dark&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andj05&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andj05&layout=compact&theme=github_dark&hide_border=true)
+
+**💻 2024:** 4 proyectos activos • 150+ commits • Apps en producción  
+**🔥 Enfoque:** Backend escalable • Seguridad • Calidad de código
 
 </div>
 
