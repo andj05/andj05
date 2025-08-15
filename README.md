@@ -55,10 +55,16 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andj05&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andj05&layout=compact&theme=github_dark&hide_border=true)
 
-**💻 2024:** 4 proyectos activos • 150+ commits • Apps en producción  
-**🔥 Enfoque:** Backend escalable • Seguridad • Calidad de código
-
 </div>
+
+### 💼 Contribuciones Profesionales
+**🏢 ASHPROGRAM ([Softep](https://github.com/Softep))** - Backend Developer  
+Desarrollo activo en proyectos privados de la empresa:
+- App Delivery: +500 commits en backend C# .NET
+- APIs REST escalables para aplicaciones móviles
+- Optimización de bases de datos PostgreSQL/SQL Server
+
+**📈 Actividad 2024:** 4 proyectos activos • Apps en producción • Backend robusto
 
 ## 🎓 Formación
 
